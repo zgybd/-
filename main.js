@@ -8,6 +8,7 @@ ui.layout(
     <input id="Year" w="*" marginTop="10" />
     <button id="start" text="开始计算" w="*" marginTop="5" />
     <text text="By Zgybd_" gravity="center" marginTop="500" />
+    <text text="请打开悬浮窗权限" gravity="center"  />
     </vertical>
 )
 
